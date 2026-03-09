@@ -1,5 +1,1 @@
-print("Hello, Python")
-print("What's up?")
-
-
-
+print("Hello")
